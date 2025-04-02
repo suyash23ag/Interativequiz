@@ -76,3 +76,4 @@ function createLeaderboardEntry(entry, index) {
   return entryElement
 }
 
+
