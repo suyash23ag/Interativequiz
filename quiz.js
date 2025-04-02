@@ -325,4 +325,3 @@ function goToHome() {
   leaderboardCard.classList.add("hidden")
   homeCard.classList.remove("hidden")
 }
-
